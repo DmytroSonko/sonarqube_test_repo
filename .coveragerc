@@ -1,0 +1,7 @@
+# Configuration for coverage.py
+[run]
+omit =
+    tests/*
+source =
+    gvmtools
+    scripts
